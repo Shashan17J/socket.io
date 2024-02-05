@@ -14,9 +14,7 @@ A real-time chat application built using Socket.io for seamless and interactive 
 - Node.js
 - Express.js
 - Socket.io
-- HTML
-- CSS
-- JavaScript
+- React.js
 - Material-Ui
 
 ## Getting Started
